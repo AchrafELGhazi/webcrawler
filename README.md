@@ -17,7 +17,7 @@ A lightweight Python web crawler for extracting and analyzing content from websi
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/webcrawler.git
+git clone https://github.com/AchrafELGhazi/webcrawler.git
 cd webcrawler
 ```
 
@@ -31,24 +31,6 @@ pip install -r requirements.txt
 ### Basic Example
 ```python
 python main.py
-```
-
-### Configuration
-Edit the `config.py` file to adjust crawler settings:
-- Target URLs
-- Crawl depth
-- Request timeout
-- User agent
-
-## Project Structure
-```
-webcrawler/
-├── main.py          # Main entry point
-├── crawler.py       # Core crawler functionality
-├── parser.py        # HTML parsing utilities
-├── config.py        # Configuration settings
-├── requirements.txt # Project dependencies
-└── README.md        # Project documentation
 ```
 
 ## Dependencies
