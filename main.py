@@ -48,7 +48,6 @@ class WebMonitor:
             self.recipient_email = "Aa.Bougrine@aui.ma"
             logging.info("Using Gmail with app password for SMTP access")
         else:
-            # Fallback to Yandex with more anti-spam measures
             self.smtp_server = "smtp.yandex.com"
             self.smtp_port = 465
             self.sender_email = "govquery@yandex.com"
@@ -91,7 +90,6 @@ class WebMonitor:
     def test_email_configuration(self):
         try:
             if self.use_gmail:
-                # Gmail uses TLS
                 with smtplib.SMTP(self.smtp_server, self.smtp_port) as server:
                     logging.info(f"Testing connection to {self.smtp_server}...")
                     server.ehlo()
@@ -100,7 +98,6 @@ class WebMonitor:
                     server.login(self.sender_email, self.email_password)
                     logging.info("Email configuration test successful!")
             else:
-                # Yandex uses SSL
                 with smtplib.SMTP_SSL(self.smtp_server, self.smtp_port) as server:
                     logging.info(f"Testing connection to {self.smtp_server}...")
                     server.login(self.sender_email, self.email_password)
@@ -141,12 +138,11 @@ class WebMonitor:
             old_content.splitlines(),
             new_content.splitlines(),
             lineterm='',
-            n=1  # Show 1 line of context
+            n=1
         )
         
-        # Get only the most significant changes (maximum 10 lines)
         diff_lines = list(diff)
-        if len(diff_lines) > 12:  # Header is 2 lines
+        if len(diff_lines) > 12:
             diff_lines = diff_lines[:2] + diff_lines[2:12]
             diff_lines.append("... [additional changes truncated] ...")
             
@@ -160,11 +156,9 @@ class WebMonitor:
         try:
             msg = MIMEMultipart('alternative')
             
-            # Add random message ID and timestamp to reduce spam detection
             msg['Message-ID'] = email.utils.make_msgid(domain=self.sender_email.split('@')[1])
             msg['Date'] = email.utils.formatdate(localtime=True)
             
-            # Personalize subject line to avoid spam filters
             subjects = [
                 f"Website Update Alert: Changes on {self.url.split('//')[1]}",
                 f"Web Monitor Notification: Updates Detected",
@@ -179,7 +173,6 @@ class WebMonitor:
             
             now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             
-            # Create a more natural, less spam-like message
             text_content = f"""Hello,
 
 Our web monitoring system has detected changes on the website you're tracking.
@@ -195,11 +188,9 @@ Best regards,
 Web Monitoring System
 """
             
-            # Add diff if available
             if diff_text:
                 text_content += f"\n\nDetected changes:\n{diff_text}\n"
 
-            # Create HTML version
             html_content = f"""
 <p>Hello,</p>
 
@@ -225,7 +216,6 @@ Web Monitoring System</p>
             msg.attach(MIMEText(html_content, 'html'))
 
             if self.use_gmail:
-                # Gmail uses TLS
                 with smtplib.SMTP(self.smtp_server, self.smtp_port) as server:
                     logging.info(f"Connecting to {self.smtp_server}...")
                     server.ehlo()
@@ -234,7 +224,6 @@ Web Monitoring System</p>
                     server.login(self.sender_email, self.email_password)
                     server.send_message(msg)
             else:
-                # Yandex uses SSL
                 with smtplib.SMTP_SSL(self.smtp_server, self.smtp_port) as server:
                     logging.info(f"Connecting to {self.smtp_server}...")
                     server.login(self.sender_email, self.email_password)
@@ -265,34 +254,27 @@ Web Monitoring System</p>
         try:
             soup = BeautifulSoup(full_content, 'html.parser')
             
-            # For time.is, focus on the main body content and exclude dynamic elements
-            # Remove scripts, which change frequently
+       
             for script in soup.find_all('script'):
                 script.extract()
                 
-            # Remove styles, which don't affect content
             for style in soup.find_all('style'):
                 style.extract()
                 
-            # Remove meta tags which might have timestamps
             for meta in soup.find_all('meta'):
                 meta.extract()
                 
-            # For time.is specifically, try to exclude the clock elements
             for div in soup.find_all('div', id=['clock', 'date', 'twd']):
                 div.extract()
                 
-            # Extract just the body or main content
             body = soup.find('body')
             if body:
                 return str(body)
             
-            # Fall back to the whole page if needed
             return str(soup)
             
         except Exception as e:
             logging.error(f"Error extracting important content: {e}")
-            # Fall back to the full content if parsing fails
             return full_content
 
     def check_for_updates(self):
@@ -343,7 +325,7 @@ Web Monitoring System</p>
             logging.info("Monitoring stopped due to error.")
 
 if __name__ == "__main__":
-    URL_TO_MONITOR = "https://time.is/"
+    URL_TO_MONITOR = "https://time.is/" #i can put any website here
     
     CHECK_INTERVAL = 600
     
