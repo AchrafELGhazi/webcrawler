@@ -282,3 +282,335 @@ Monitoring stopped by user.
 2025-05-05 03:48:38,381 - INFO - Subject: Web Monitor: Change Detected
 2025-05-05 03:48:38,382 - INFO - Body: A change was detected at 2025-05-05 03:48:38 on https://time.is/
 2025-05-05 03:48:38,382 - INFO - ==================================================
+2025-05-05 03:48:48,386 - INFO - Checking for updates at 2025-05-05 03:48:48
+2025-05-05 03:48:48,560 - INFO - Change detected!
+2025-05-05 03:48:48,561 - INFO - Saved content snapshot to snapshots/snapshot_20250505_034848.html
+2025-05-05 03:48:48,562 - INFO - Notification cooldown active. Next notification allowed in 3345 seconds.
+2025-05-05 03:48:48,562 - INFO - ==================================================
+2025-05-05 03:48:48,562 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:48:48,562 - INFO - ==================================================
+2025-05-05 03:48:48,563 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:48:48,563 - INFO - Body: A change was detected at 2025-05-05 03:48:48 on https://time.is/
+2025-05-05 03:48:48,563 - INFO - ==================================================
+2025-05-05 03:48:58,567 - INFO - Checking for updates at 2025-05-05 03:48:58
+2025-05-05 03:48:58,764 - INFO - Change detected!
+2025-05-05 03:48:58,765 - INFO - Saved content snapshot to snapshots/snapshot_20250505_034858.html
+2025-05-05 03:48:58,765 - INFO - Notification cooldown active. Next notification allowed in 3334 seconds.
+2025-05-05 03:48:58,766 - INFO - ==================================================
+2025-05-05 03:48:58,766 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:48:58,766 - INFO - ==================================================
+2025-05-05 03:48:58,766 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:48:58,767 - INFO - Body: A change was detected at 2025-05-05 03:48:58 on https://time.is/
+2025-05-05 03:48:58,767 - INFO - ==================================================
+2025-05-05 03:49:08,771 - INFO - Checking for updates at 2025-05-05 03:49:08
+2025-05-05 03:49:08,944 - INFO - Change detected!
+2025-05-05 03:49:08,946 - INFO - Saved content snapshot to snapshots/snapshot_20250505_034908.html
+2025-05-05 03:49:08,946 - INFO - Notification cooldown active. Next notification allowed in 3324 seconds.
+2025-05-05 03:49:08,946 - INFO - ==================================================
+2025-05-05 03:49:08,946 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:49:08,947 - INFO - ==================================================
+2025-05-05 03:49:08,947 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:49:08,947 - INFO - Body: A change was detected at 2025-05-05 03:49:08 on https://time.is/
+2025-05-05 03:49:08,947 - INFO - ==================================================
+2025-05-05 03:49:18,952 - INFO - Checking for updates at 2025-05-05 03:49:18
+2025-05-05 03:49:19,165 - INFO - Change detected!
+2025-05-05 03:49:19,167 - INFO - Saved content snapshot to snapshots/snapshot_20250505_034919.html
+2025-05-05 03:49:19,168 - INFO - Notification cooldown active. Next notification allowed in 3314 seconds.
+2025-05-05 03:49:19,168 - INFO - ==================================================
+2025-05-05 03:49:19,168 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:49:19,169 - INFO - ==================================================
+2025-05-05 03:49:19,169 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:49:19,170 - INFO - Body: A change was detected at 2025-05-05 03:49:19 on https://time.is/
+2025-05-05 03:49:19,170 - INFO - ==================================================
+2025-05-05 03:49:29,175 - INFO - Checking for updates at 2025-05-05 03:49:29
+2025-05-05 03:49:29,336 - INFO - Change detected!
+2025-05-05 03:49:29,337 - INFO - Saved content snapshot to snapshots/snapshot_20250505_034929.html
+2025-05-05 03:49:29,338 - INFO - Notification cooldown active. Next notification allowed in 3304 seconds.
+2025-05-05 03:49:29,338 - INFO - ==================================================
+2025-05-05 03:49:29,338 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:49:29,339 - INFO - ==================================================
+2025-05-05 03:49:29,339 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:49:29,339 - INFO - Body: A change was detected at 2025-05-05 03:49:29 on https://time.is/
+2025-05-05 03:49:29,339 - INFO - ==================================================
+2025-05-05 03:49:39,345 - INFO - Checking for updates at 2025-05-05 03:49:39
+2025-05-05 03:49:39,512 - INFO - Change detected!
+2025-05-05 03:49:39,514 - INFO - Saved content snapshot to snapshots/snapshot_20250505_034939.html
+2025-05-05 03:49:39,514 - INFO - Notification cooldown active. Next notification allowed in 3294 seconds.
+2025-05-05 03:49:39,515 - INFO - ==================================================
+2025-05-05 03:49:39,515 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:49:39,515 - INFO - ==================================================
+2025-05-05 03:49:39,515 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:49:39,516 - INFO - Body: A change was detected at 2025-05-05 03:49:39 on https://time.is/
+2025-05-05 03:49:39,516 - INFO - ==================================================
+2025-05-05 03:49:49,521 - INFO - Checking for updates at 2025-05-05 03:49:49
+2025-05-05 03:49:49,753 - INFO - Change detected!
+2025-05-05 03:49:49,755 - INFO - Saved content snapshot to snapshots/snapshot_20250505_034949.html
+2025-05-05 03:49:49,756 - INFO - Notification cooldown active. Next notification allowed in 3283 seconds.
+2025-05-05 03:49:49,757 - INFO - ==================================================
+2025-05-05 03:49:49,757 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:49:49,757 - INFO - ==================================================
+2025-05-05 03:49:49,758 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:49:49,758 - INFO - Body: A change was detected at 2025-05-05 03:49:49 on https://time.is/
+2025-05-05 03:49:49,758 - INFO - ==================================================
+2025-05-05 03:49:59,763 - INFO - Checking for updates at 2025-05-05 03:49:59
+2025-05-05 03:49:59,962 - INFO - Change detected!
+2025-05-05 03:49:59,963 - INFO - Saved content snapshot to snapshots/snapshot_20250505_034959.html
+2025-05-05 03:49:59,963 - INFO - Notification cooldown active. Next notification allowed in 3273 seconds.
+2025-05-05 03:49:59,963 - INFO - ==================================================
+2025-05-05 03:49:59,964 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:49:59,964 - INFO - ==================================================
+2025-05-05 03:49:59,964 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:49:59,964 - INFO - Body: A change was detected at 2025-05-05 03:49:59 on https://time.is/
+2025-05-05 03:49:59,964 - INFO - ==================================================
+2025-05-05 03:50:09,970 - INFO - Checking for updates at 2025-05-05 03:50:09
+2025-05-05 03:50:10,168 - INFO - Change detected!
+2025-05-05 03:50:10,170 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035010.html
+2025-05-05 03:50:10,171 - INFO - Notification cooldown active. Next notification allowed in 3263 seconds.
+2025-05-05 03:50:10,171 - INFO - ==================================================
+2025-05-05 03:50:10,172 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:50:10,172 - INFO - ==================================================
+2025-05-05 03:50:10,172 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:50:10,173 - INFO - Body: A change was detected at 2025-05-05 03:50:10 on https://time.is/
+2025-05-05 03:50:10,173 - INFO - ==================================================
+2025-05-05 03:50:20,178 - INFO - Checking for updates at 2025-05-05 03:50:20
+2025-05-05 03:50:20,382 - INFO - Change detected!
+2025-05-05 03:50:20,384 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035020.html
+2025-05-05 03:50:20,385 - INFO - Notification cooldown active. Next notification allowed in 3253 seconds.
+2025-05-05 03:50:20,385 - INFO - ==================================================
+2025-05-05 03:50:20,385 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:50:20,385 - INFO - ==================================================
+2025-05-05 03:50:20,386 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:50:20,386 - INFO - Body: A change was detected at 2025-05-05 03:50:20 on https://time.is/
+2025-05-05 03:50:20,386 - INFO - ==================================================
+2025-05-05 03:50:30,391 - INFO - Checking for updates at 2025-05-05 03:50:30
+2025-05-05 03:50:30,557 - INFO - Change detected!
+2025-05-05 03:50:30,560 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035030.html
+2025-05-05 03:50:30,560 - INFO - Notification cooldown active. Next notification allowed in 3243 seconds.
+2025-05-05 03:50:30,561 - INFO - ==================================================
+2025-05-05 03:50:30,561 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:50:30,561 - INFO - ==================================================
+2025-05-05 03:50:30,562 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:50:30,562 - INFO - Body: A change was detected at 2025-05-05 03:50:30 on https://time.is/
+2025-05-05 03:50:30,563 - INFO - ==================================================
+2025-05-05 03:50:40,568 - INFO - Checking for updates at 2025-05-05 03:50:40
+2025-05-05 03:50:40,771 - INFO - Change detected!
+2025-05-05 03:50:40,773 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035040.html
+2025-05-05 03:50:40,774 - INFO - Notification cooldown active. Next notification allowed in 3232 seconds.
+2025-05-05 03:50:40,774 - INFO - ==================================================
+2025-05-05 03:50:40,775 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:50:40,775 - INFO - ==================================================
+2025-05-05 03:50:40,776 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:50:40,776 - INFO - Body: A change was detected at 2025-05-05 03:50:40 on https://time.is/
+2025-05-05 03:50:40,776 - INFO - ==================================================
+2025-05-05 03:50:50,781 - INFO - Checking for updates at 2025-05-05 03:50:50
+2025-05-05 03:50:50,982 - INFO - Change detected!
+2025-05-05 03:50:50,984 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035050.html
+2025-05-05 03:50:50,985 - INFO - Notification cooldown active. Next notification allowed in 3222 seconds.
+2025-05-05 03:50:50,985 - INFO - ==================================================
+2025-05-05 03:50:50,986 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:50:50,986 - INFO - ==================================================
+2025-05-05 03:50:50,986 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:50:50,986 - INFO - Body: A change was detected at 2025-05-05 03:50:50 on https://time.is/
+2025-05-05 03:50:50,987 - INFO - ==================================================
+2025-05-05 03:51:00,992 - INFO - Checking for updates at 2025-05-05 03:51:00
+2025-05-05 03:51:01,196 - INFO - Change detected!
+2025-05-05 03:51:01,199 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035101.html
+2025-05-05 03:51:01,200 - INFO - Notification cooldown active. Next notification allowed in 3212 seconds.
+2025-05-05 03:51:01,200 - INFO - ==================================================
+2025-05-05 03:51:01,201 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:51:01,201 - INFO - ==================================================
+2025-05-05 03:51:01,202 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:51:01,202 - INFO - Body: A change was detected at 2025-05-05 03:51:01 on https://time.is/
+2025-05-05 03:51:01,202 - INFO - ==================================================
+2025-05-05 03:51:11,208 - INFO - Checking for updates at 2025-05-05 03:51:11
+2025-05-05 03:51:11,386 - INFO - Change detected!
+2025-05-05 03:51:11,387 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035111.html
+2025-05-05 03:51:11,388 - INFO - Notification cooldown active. Next notification allowed in 3202 seconds.
+2025-05-05 03:51:11,388 - INFO - ==================================================
+2025-05-05 03:51:11,388 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:51:11,388 - INFO - ==================================================
+2025-05-05 03:51:11,388 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:51:11,389 - INFO - Body: A change was detected at 2025-05-05 03:51:11 on https://time.is/
+2025-05-05 03:51:11,389 - INFO - ==================================================
+2025-05-05 03:51:21,392 - INFO - Checking for updates at 2025-05-05 03:51:21
+2025-05-05 03:51:21,592 - INFO - Change detected!
+2025-05-05 03:51:21,594 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035121.html
+2025-05-05 03:51:21,595 - INFO - Notification cooldown active. Next notification allowed in 3192 seconds.
+2025-05-05 03:51:21,595 - INFO - ==================================================
+2025-05-05 03:51:21,596 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:51:21,596 - INFO - ==================================================
+2025-05-05 03:51:21,596 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:51:21,597 - INFO - Body: A change was detected at 2025-05-05 03:51:21 on https://time.is/
+2025-05-05 03:51:21,597 - INFO - ==================================================
+2025-05-05 03:51:31,602 - INFO - Checking for updates at 2025-05-05 03:51:31
+2025-05-05 03:51:31,817 - INFO - Change detected!
+2025-05-05 03:51:31,819 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035131.html
+2025-05-05 03:51:31,820 - INFO - Notification cooldown active. Next notification allowed in 3181 seconds.
+2025-05-05 03:51:31,820 - INFO - ==================================================
+2025-05-05 03:51:31,820 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:51:31,821 - INFO - ==================================================
+2025-05-05 03:51:31,821 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:51:31,821 - INFO - Body: A change was detected at 2025-05-05 03:51:31 on https://time.is/
+2025-05-05 03:51:31,822 - INFO - ==================================================
+2025-05-05 03:51:41,828 - INFO - Checking for updates at 2025-05-05 03:51:41
+2025-05-05 03:51:42,023 - INFO - Change detected!
+2025-05-05 03:51:42,025 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035142.html
+2025-05-05 03:51:42,026 - INFO - Notification cooldown active. Next notification allowed in 3171 seconds.
+2025-05-05 03:51:42,026 - INFO - ==================================================
+2025-05-05 03:51:42,026 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:51:42,027 - INFO - ==================================================
+2025-05-05 03:51:42,027 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:51:42,027 - INFO - Body: A change was detected at 2025-05-05 03:51:42 on https://time.is/
+2025-05-05 03:51:42,028 - INFO - ==================================================
+2025-05-05 03:51:52,034 - INFO - Checking for updates at 2025-05-05 03:51:52
+2025-05-05 03:51:52,245 - INFO - Change detected!
+2025-05-05 03:51:52,247 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035152.html
+2025-05-05 03:51:52,247 - INFO - Notification cooldown active. Next notification allowed in 3161 seconds.
+2025-05-05 03:51:52,247 - INFO - ==================================================
+2025-05-05 03:51:52,248 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:51:52,248 - INFO - ==================================================
+2025-05-05 03:51:52,248 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:51:52,248 - INFO - Body: A change was detected at 2025-05-05 03:51:52 on https://time.is/
+2025-05-05 03:51:52,249 - INFO - ==================================================
+2025-05-05 03:52:02,254 - INFO - Checking for updates at 2025-05-05 03:52:02
+2025-05-05 03:52:02,458 - INFO - Change detected!
+2025-05-05 03:52:02,460 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035202.html
+2025-05-05 03:52:02,461 - INFO - Notification cooldown active. Next notification allowed in 3151 seconds.
+2025-05-05 03:52:02,461 - INFO - ==================================================
+2025-05-05 03:52:02,461 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:52:02,462 - INFO - ==================================================
+2025-05-05 03:52:02,462 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:52:02,463 - INFO - Body: A change was detected at 2025-05-05 03:52:02 on https://time.is/
+2025-05-05 03:52:02,463 - INFO - ==================================================
+2025-05-05 03:52:12,468 - INFO - Checking for updates at 2025-05-05 03:52:12
+2025-05-05 03:52:12,661 - INFO - Change detected!
+2025-05-05 03:52:12,664 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035212.html
+2025-05-05 03:52:12,664 - INFO - Notification cooldown active. Next notification allowed in 3141 seconds.
+2025-05-05 03:52:12,665 - INFO - ==================================================
+2025-05-05 03:52:12,665 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:52:12,666 - INFO - ==================================================
+2025-05-05 03:52:12,666 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:52:12,666 - INFO - Body: A change was detected at 2025-05-05 03:52:12 on https://time.is/
+2025-05-05 03:52:12,667 - INFO - ==================================================
+2025-05-05 03:52:22,672 - INFO - Checking for updates at 2025-05-05 03:52:22
+2025-05-05 03:52:22,874 - INFO - Change detected!
+2025-05-05 03:52:22,876 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035222.html
+2025-05-05 03:52:22,876 - INFO - Notification cooldown active. Next notification allowed in 3130 seconds.
+2025-05-05 03:52:22,877 - INFO - ==================================================
+2025-05-05 03:52:22,877 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:52:22,877 - INFO - ==================================================
+2025-05-05 03:52:22,877 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:52:22,878 - INFO - Body: A change was detected at 2025-05-05 03:52:22 on https://time.is/
+2025-05-05 03:52:22,878 - INFO - ==================================================
+2025-05-05 03:52:32,883 - INFO - Checking for updates at 2025-05-05 03:52:32
+2025-05-05 03:52:33,092 - INFO - Change detected!
+2025-05-05 03:52:33,094 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035233.html
+2025-05-05 03:52:33,095 - INFO - Notification cooldown active. Next notification allowed in 3120 seconds.
+2025-05-05 03:52:33,096 - INFO - ==================================================
+2025-05-05 03:52:33,097 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:52:33,097 - INFO - ==================================================
+2025-05-05 03:52:33,097 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:52:33,098 - INFO - Body: A change was detected at 2025-05-05 03:52:33 on https://time.is/
+2025-05-05 03:52:33,098 - INFO - ==================================================
+2025-05-05 03:52:43,103 - INFO - Checking for updates at 2025-05-05 03:52:43
+2025-05-05 03:52:43,285 - INFO - Change detected!
+2025-05-05 03:52:43,286 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035243.html
+2025-05-05 03:52:43,287 - INFO - Notification cooldown active. Next notification allowed in 3110 seconds.
+2025-05-05 03:52:43,287 - INFO - ==================================================
+2025-05-05 03:52:43,288 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:52:43,288 - INFO - ==================================================
+2025-05-05 03:52:43,288 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:52:43,288 - INFO - Body: A change was detected at 2025-05-05 03:52:43 on https://time.is/
+2025-05-05 03:52:43,289 - INFO - ==================================================
+2025-05-05 03:52:53,294 - INFO - Checking for updates at 2025-05-05 03:52:53
+2025-05-05 03:52:53,508 - INFO - Change detected!
+2025-05-05 03:52:53,509 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035253.html
+2025-05-05 03:52:53,510 - INFO - Notification cooldown active. Next notification allowed in 3100 seconds.
+2025-05-05 03:52:53,510 - INFO - ==================================================
+2025-05-05 03:52:53,511 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:52:53,511 - INFO - ==================================================
+2025-05-05 03:52:53,511 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:52:53,511 - INFO - Body: A change was detected at 2025-05-05 03:52:53 on https://time.is/
+2025-05-05 03:52:53,512 - INFO - ==================================================
+2025-05-05 03:53:03,516 - INFO - Checking for updates at 2025-05-05 03:53:03
+2025-05-05 03:53:03,717 - INFO - Change detected!
+2025-05-05 03:53:03,719 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035303.html
+2025-05-05 03:53:03,720 - INFO - Notification cooldown active. Next notification allowed in 3089 seconds.
+2025-05-05 03:53:03,721 - INFO - ==================================================
+2025-05-05 03:53:03,721 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:53:03,722 - INFO - ==================================================
+2025-05-05 03:53:03,722 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:53:03,722 - INFO - Body: A change was detected at 2025-05-05 03:53:03 on https://time.is/
+2025-05-05 03:53:03,723 - INFO - ==================================================
+2025-05-05 03:53:13,727 - INFO - Checking for updates at 2025-05-05 03:53:13
+2025-05-05 03:53:13,904 - INFO - Change detected!
+2025-05-05 03:53:13,905 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035313.html
+2025-05-05 03:53:13,906 - INFO - Notification cooldown active. Next notification allowed in 3079 seconds.
+2025-05-05 03:53:13,906 - INFO - ==================================================
+2025-05-05 03:53:13,906 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:53:13,906 - INFO - ==================================================
+2025-05-05 03:53:13,906 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:53:13,906 - INFO - Body: A change was detected at 2025-05-05 03:53:13 on https://time.is/
+2025-05-05 03:53:13,906 - INFO - ==================================================
+2025-05-05 03:53:23,911 - INFO - Checking for updates at 2025-05-05 03:53:23
+2025-05-05 03:53:24,115 - INFO - Change detected!
+2025-05-05 03:53:24,117 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035324.html
+2025-05-05 03:53:24,118 - INFO - Notification cooldown active. Next notification allowed in 3069 seconds.
+2025-05-05 03:53:24,118 - INFO - ==================================================
+2025-05-05 03:53:24,119 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:53:24,119 - INFO - ==================================================
+2025-05-05 03:53:24,120 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:53:24,120 - INFO - Body: A change was detected at 2025-05-05 03:53:24 on https://time.is/
+2025-05-05 03:53:24,121 - INFO - ==================================================
+2025-05-05 03:53:34,126 - INFO - Checking for updates at 2025-05-05 03:53:34
+2025-05-05 03:53:34,273 - INFO - Change detected!
+2025-05-05 03:53:34,275 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035334.html
+2025-05-05 03:53:34,275 - INFO - Notification cooldown active. Next notification allowed in 3059 seconds.
+2025-05-05 03:53:34,275 - INFO - ==================================================
+2025-05-05 03:53:34,275 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:53:34,275 - INFO - ==================================================
+2025-05-05 03:53:34,275 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:53:34,276 - INFO - Body: A change was detected at 2025-05-05 03:53:34 on https://time.is/
+2025-05-05 03:53:34,276 - INFO - ==================================================
+2025-05-05 03:53:44,280 - INFO - Checking for updates at 2025-05-05 03:53:44
+2025-05-05 03:53:44,458 - INFO - Change detected!
+2025-05-05 03:53:44,459 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035344.html
+2025-05-05 03:53:44,460 - INFO - Notification cooldown active. Next notification allowed in 3049 seconds.
+2025-05-05 03:53:44,460 - INFO - ==================================================
+2025-05-05 03:53:44,460 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:53:44,460 - INFO - ==================================================
+2025-05-05 03:53:44,460 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:53:44,460 - INFO - Body: A change was detected at 2025-05-05 03:53:44 on https://time.is/
+2025-05-05 03:53:44,461 - INFO - ==================================================
+2025-05-05 03:53:54,465 - INFO - Checking for updates at 2025-05-05 03:53:54
+2025-05-05 03:53:54,640 - INFO - Change detected!
+2025-05-05 03:53:54,641 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035354.html
+2025-05-05 03:53:54,642 - INFO - Notification cooldown active. Next notification allowed in 3039 seconds.
+2025-05-05 03:53:54,642 - INFO - ==================================================
+2025-05-05 03:53:54,642 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:53:54,642 - INFO - ==================================================
+2025-05-05 03:53:54,642 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:53:54,643 - INFO - Body: A change was detected at 2025-05-05 03:53:54 on https://time.is/
+2025-05-05 03:53:54,643 - INFO - ==================================================
+2025-05-05 03:54:04,646 - INFO - Checking for updates at 2025-05-05 03:54:04
+2025-05-05 03:54:04,841 - INFO - Change detected!
+2025-05-05 03:54:04,842 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035404.html
+2025-05-05 03:54:04,842 - INFO - Notification cooldown active. Next notification allowed in 3028 seconds.
+2025-05-05 03:54:04,843 - INFO - ==================================================
+2025-05-05 03:54:04,843 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:54:04,843 - INFO - ==================================================
+2025-05-05 03:54:04,843 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:54:04,843 - INFO - Body: A change was detected at 2025-05-05 03:54:04 on https://time.is/
+2025-05-05 03:54:04,844 - INFO - ==================================================
+2025-05-05 03:54:14,848 - INFO - Checking for updates at 2025-05-05 03:54:14
+2025-05-05 03:54:15,047 - INFO - Change detected!
+2025-05-05 03:54:15,049 - INFO - Saved content snapshot to snapshots/snapshot_20250505_035415.html
+2025-05-05 03:54:15,049 - INFO - Notification cooldown active. Next notification allowed in 3018 seconds.
+2025-05-05 03:54:15,050 - INFO - ==================================================
+2025-05-05 03:54:15,050 - INFO - FALLBACK NOTIFICATION: RATE LIMITED
+2025-05-05 03:54:15,050 - INFO - ==================================================
+2025-05-05 03:54:15,050 - INFO - Subject: Web Monitor: Change Detected
+2025-05-05 03:54:15,050 - INFO - Body: A change was detected at 2025-05-05 03:54:15 on https://time.is/
+2025-05-05 03:54:15,050 - INFO - ==================================================
+2025-05-05 03:54:16,938 - INFO - 
+Monitoring stopped by user.
