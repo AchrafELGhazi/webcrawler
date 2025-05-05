@@ -45,7 +45,7 @@ python main.py
 - Handle errors gracefully
 
 ## License
-MIT
+[MIT](LICENSE.md)
 
 ## Contributing
 Contributions welcome! Please feel free to submit a Pull Request.
